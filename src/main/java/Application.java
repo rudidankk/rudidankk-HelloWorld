@@ -9,7 +9,7 @@ public class Application {
      * when you run the main method.
      */
     public static void main(String[] args) {
-        System.out.println("This program will print out whatever is returned by the Lab.sayHello method.");
+        System.out.println("Hello, World!");
         System.out.println("The current lab output: ");
 
         Lab hello = new Lab();
